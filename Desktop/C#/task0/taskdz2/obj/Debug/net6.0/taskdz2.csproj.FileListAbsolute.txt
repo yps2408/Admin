@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\C#\task0\taskdz2\bin\Debug\net6.0\taskdz2.exe
+C:\Users\Admin\Desktop\C#\task0\taskdz2\bin\Debug\net6.0\taskdz2.deps.json
+C:\Users\Admin\Desktop\C#\task0\taskdz2\bin\Debug\net6.0\taskdz2.runtimeconfig.json
+C:\Users\Admin\Desktop\C#\task0\taskdz2\bin\Debug\net6.0\taskdz2.dll
+C:\Users\Admin\Desktop\C#\task0\taskdz2\bin\Debug\net6.0\taskdz2.pdb
+C:\Users\Admin\Desktop\C#\task0\taskdz2\obj\Debug\net6.0\taskdz2.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\C#\task0\taskdz2\obj\Debug\net6.0\taskdz2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\C#\task0\taskdz2\obj\Debug\net6.0\taskdz2.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\C#\task0\taskdz2\obj\Debug\net6.0\taskdz2.AssemblyInfo.cs
+C:\Users\Admin\Desktop\C#\task0\taskdz2\obj\Debug\net6.0\taskdz2.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\C#\task0\taskdz2\obj\Debug\net6.0\taskdz2.dll
+C:\Users\Admin\Desktop\C#\task0\taskdz2\obj\Debug\net6.0\refint\taskdz2.dll
+C:\Users\Admin\Desktop\C#\task0\taskdz2\obj\Debug\net6.0\taskdz2.pdb
+C:\Users\Admin\Desktop\C#\task0\taskdz2\obj\Debug\net6.0\taskdz2.genruntimeconfig.cache
+C:\Users\Admin\Desktop\C#\task0\taskdz2\obj\Debug\net6.0\ref\taskdz2.dll
