@@ -1,12 +1,19 @@
-﻿// Напишите программу, которая выводит случайное трёхзначное число и удаляет вторую цифру этого числа. 
-//456 -> 46 
-//782 -> 72 
-//918 -> 98 
-int number = new Random().Next(100,999);
+﻿// Напишите программу, которая выводит третью цифру заданного числа или сообщает, что третьей цифры нет.
+//645 -> 5
+//78 -> третьей цифры нет
+//32679 -> 6
 
-
-int number1= number / 100 * 10;
-int number2= number % 10;
-Console.Write(number);
-Console.WriteLine();
-Console.Write(number1 + number2);
+Console.WriteLine ("Введите число: ");
+int randomNumber = Convert.ToInt32(Console.ReadLine());
+if (randomNumber > 99)
+{
+    while (randomNumber > 999)
+    {
+       randomNumber=randomNumber /10;
+    }
+    Console.WriteLine (randomNumber %10);
+}
+else
+{
+    Console.WriteLine ("Третьей цифры нет!");
+}
